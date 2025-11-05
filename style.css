@@ -32,5 +32,8 @@
 }
 
 .boite-trait {
+  display: flex;
   background-color: #13acb4;
+  height: 20px;
+  width: 100px;
 }/*# sourceMappingURL=style.css.map */
