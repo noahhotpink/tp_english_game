@@ -47,14 +47,18 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  gap: 30px;
 }
 .boite-premiere-section .css-titre {
   color: #d2ebf0;
-  text-align: center;
+  text-align: left;
 }
 .boite-premiere-section .css-video {
   width: 50%;
   align-items: center;
+  border-radius: 30px;
+  border-color: #d2ebf0;
+  border: #d2ebf0 solid 5px;
 }
 
 .css-paragraphe1 {

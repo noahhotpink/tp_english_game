@@ -62,10 +62,14 @@ height: 50px;
   display: flex;
   align-items: center;
   flex-direction: column;
+  gap: 30px;
+  
 
 .css-titre {
   color: #d2ebf0;
-  text-align: center;
+  text-align: left;
+
+
 }
 
 
@@ -73,11 +77,16 @@ height: 50px;
 .css-video {
   width: 50%;
   align-items: center;
+  border-radius: 30px;
+  border-color: #d2ebf0;
+  border: #d2ebf0 solid 5px;
+
   
 } 
 }
 .css-paragraphe1 {
   color: #d2ebf0;
+  
 
 }
 
