@@ -38,5 +38,7 @@
 
 .boite-premiere-section {
   background-color: #063b45;
-  width: 70px;
+}
+.boite-premiere-section .h1 {
+  color: #d2ebf0;
 }/*# sourceMappingURL=style.css.map */
