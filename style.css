@@ -1,3 +1,9 @@
-body {
-  background-color: pink;
+.header {
+  background-color: #177079;
+  height: 150px;
+}
+
+.boite-trait {
+  background-color: #13acb4;
+  height: 10px;
 }/*# sourceMappingURL=style.css.map */
