@@ -15,9 +15,13 @@ height: 50px;
 
 }  
 
+
+
 .image-boite-icone {
     width: 20px;
     height: 20px;
+    display: flex;
+    justify-content: space-between;
     
     
 
@@ -37,4 +41,6 @@ height: 50px;
 
 }
 
-width: 100%;
+.boite-trait {
+  background-color: #13acb4;
+}

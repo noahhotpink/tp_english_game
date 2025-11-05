@@ -6,25 +6,26 @@
   align-items: center;
   justify-content: space-between;
   padding-inline: 22px;
-  width: 100%;
 }
-
-.image-du-logo {
+.header .image-du-logo {
   width: 50px;
   height: 50px;
 }
-
-.image-boite-icone {
+.header .image-boite-icone {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.header .image-profil {
+  width: 20px;
+  height: 20px;
+}
+.header .image-icone-more {
   width: 20px;
   height: 20px;
 }
 
-.image-profil {
-  width: 20px;
-  height: 20px;
-}
-
-.image-icone-more {
-  width: 20px;
-  height: 20px;
+.boite-trait {
+  background-color: #13acb4;
 }/*# sourceMappingURL=style.css.map */
