@@ -16,7 +16,11 @@ height: 50px;
 }  
 
 
-
+.boite-profil{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 120px;    
+}
 .image-boite-icone {
     width: 20px;
     height: 20px;
