@@ -93,6 +93,7 @@ height: 50px;
 .second-section {
   display: flex;
   align-items: center;
+  flex-direction: column;
   background-color: azure;
   border-top-left-radius: 40px;
   border-top-right-radius: 40px;
@@ -105,17 +106,22 @@ height: 50px;
 
   .css-titre-deuxieme-section {
     color: #177079;
-    text-align: center;
+    display: flex;
+    align-items: center;
+
   }
   .css-paragraphe2 {
     color: #177079;
-    text-align: center;
+     display: flex;
+     align-items: center;
 
   }
   .bouton-deuxieme-section {
     background-color: yellow;
     border: black;
     border-radius: 30px;
+    display: flex;
+    align-items: center;
   }
 }
 }
