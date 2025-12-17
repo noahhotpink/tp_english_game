@@ -124,6 +124,33 @@ height: 50px;
     width: 100%;
     text-align: center;
   }
+
+
+  }
+
 }
-}
+
+  .troisieme-section{
+    background-color: #47b9cb;
+    
+  }
+  
+  .boite-troisieme-section{
+    display: flex;
+    justify-content: center;
+    
+    flex-direction: column;
+    img{
+      width: 800px;
+    }
+  }
+  
+  
+  .css-titre-troisieme-section{
+    text-align: center;
+    color: white;
+  }  
+  
+
+
 
