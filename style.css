@@ -67,27 +67,33 @@
 
 .second-section {
   display: flex;
+  justify-content: center;
   align-items: center;
+  flex-direction: column;
   background-color: azure;
   border-top-left-radius: 40px;
   border-top-right-radius: 40px;
 }
 .second-section .boite-deuxieme-section {
   display: flex;
-  align-items: center;
+  justify-content: center;
   flex-direction: column;
   gap: 30px;
 }
 .second-section .boite-deuxieme-section .css-titre-deuxieme-section {
   color: #177079;
+  display: flex;
   text-align: center;
 }
 .second-section .boite-deuxieme-section .css-paragraphe2 {
   color: #177079;
+  display: flex;
   text-align: center;
 }
 .second-section .boite-deuxieme-section .bouton-deuxieme-section {
   background-color: yellow;
   border: black;
   border-radius: 30px;
+  width: 100%;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
